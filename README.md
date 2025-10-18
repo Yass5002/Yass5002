@@ -21,7 +21,7 @@ class YassineElOuazzani:
 
 ### 🎯 Current Mission
 
-- 🔨 **Building:** My first major open-source Android app (Launch coming soon! 🚀)
+- 🚀 **Launched:** My first major open-source Android app is now live! Check it out in my repos 📱
 - 📚 **Learning:** Advanced Kotlin coroutines and modern Android architecture patterns
 - 🌱 **Growing:** Contributing to the mobile development community
 
