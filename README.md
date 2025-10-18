@@ -61,7 +61,7 @@ class YassineElOuazzani:
 <div align="center">
   <a href="https://github.com/Yass5002">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yass5002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yass5002&layout=compact&theme=tokyonight&hide=html,css"/>
+
   </a>
 </div>
 
