@@ -37,11 +37,7 @@ Enjoys turning repetitive work into scripts and reusable tools (Node.js and Pyth
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ## Contact
-<p align="center">
-  <a href="mailto:yass.elouazzani@outlook.com">
-    <img src="https://img.shields.io/badge/yass.elouazzani@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <br><br>
+<p>
   <a href="mailto:yassacerman@gmail.com">
     <img src="https://img.shields.io/badge/yassacerman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
