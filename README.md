@@ -1,4 +1,4 @@
-# mehro
+# Yassine
 Full-stack developer building Android apps with Kotlin and cross-platform apps with Flutter (Dart), plus automation and Node.js backends/tooling.
 ## Now
 - Looking for an internship.
