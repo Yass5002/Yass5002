@@ -7,7 +7,7 @@ Full-stack developer building Android apps with Kotlin and cross-platform apps w
 - Interested in: UI/UX that stays simple, reliable background work, and tooling that saves time.
 ## About
 Previously web-focused, currently putting most effort into mobile: native Android and cross-platform Flutter apps.
-Enjoys turning repetitive work into scripts and reusable tools (Node.js and Python).
+Enjoys turning repetitive work into scripts and reusable tools.
 ## Tech
 ### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-A435F0?style=flat-square&logo=kotlin&logoColor=white)
